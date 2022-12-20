@@ -1,0 +1,6 @@
+[submodule "MedSignLang_modelo"]
+	path = MedSignLang_modelo
+	url = https://github.com/EGPDIS/MedSignLang_modelo.git
+[submodule "MedSignLang_aplicativo"]
+	path = MedSignLang_aplicativo
+	url = https://github.com/EGPDIS/MedSignLang_aplicativo.git
